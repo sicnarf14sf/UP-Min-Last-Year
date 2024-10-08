@@ -215,6 +215,7 @@ The revolutions shifted from England and eventually reached the United States.
 *   Transportation
 *   Telegraph: Information Sharing
 *   <strong>Market Revolution</strong> which spawned a wide variety of corporations that needed managers to coordinate various company offices.
+*   
 
 After the civil war, gigantic corporations emerged and several problems arose during this time:
 1.  "How are workers motivated?"
@@ -230,7 +231,7 @@ After the civil war, gigantic corporations emerged and several problems arose du
     *   <strong>Principle 3</strong> - Management and the workforce should work together to ensure that work is performed according to the principles of management.
     *   <strong>Principle 4</strong> - Work and Responsibility should be equally  divided between management and workers.
 
-#### Taylor's Acolytes
+### Taylor's Acolytes
 
 * Carl G. Barth
     *    Mathematician
@@ -244,12 +245,96 @@ After the civil war, gigantic corporations emerged and several problems arose du
     *    Motion studies
     *    No smoking on the job.
 
+Taylor's Shortcomings
+*   Attracted more enemies than followers
+*   Ignored strategy and implementation and thought of workers as machine tools to be used rather than as human beings.
+
+### Administrative and Bureaucratic Management
+
+#### Henry Fayol (1841-1925)
+* Focused on Top managers who set strategy
+* Unlike Taylor, Fayol focused more on overall management of the corporation rather than on individual tasks.
+* Stressed for the need for <strong>"Unity of Command"</strong>
+* Fayol's notable contributions:
+   * Unity of command:
+       *    Unity of command means that each employee should receive orders from and report to only one direct supervisor, ensuring clear authority and responsibility, and avoiding confusion and conflicting instructions.
+    * Esprit de Corps
+        * cohesion of workers in a given unit or department, to their commitment to their individual goals and to their co-workers
+    * Justice
+        * an organizattion must decide issues fairly and equitably
+* Fayolism
+    * 14 principles of management
+        1. Division of work
+        2. Authority
+        3. Discipline
+        4. Unity of Command
+        5. Unity of direction 
+        6. Subordination of individual interests
+        7. Remuneration
+        8. Centralization
+        9. Scalar chain
+        10. Order
+        11. Equity
+        12. Stability of Tenure of Personnel 
+        13. Initiative
+        14. Esprit de corps
+##### Five (5) functions of management
+1. Planning 
+2. Organizing
+3. Staffing
+4. Controlling
+5. Directing
+
+#### Max Weber
+
+* German sociologist who made significant complementary contributions to Taylor's management system as well as to the disciplines of economics and sociology. 
+* Father of Sociology
+* Weber identified the three (3) types of leadership:
+    * Charismatic Domination (familial and religious)
+    * Traditional Domination (patriarchs, patrimonalism, and feudalism)
+    * Legal Domination (modern law, state, and bureaucracy)
+* His contribution to management is the development and understanding of the legal rationalism model of leadership, which stressed the idea that leaders should make decisions based on law, precedent, and rule, rather than whim.
+* His most notable contribution to modern management is the creation of the <strong>modern bureaucracy</strong>.
+* Principles of the Ideal Bureaucracy:
+    * Specialized Roles
+    * Recruitment based on merit
+    * Uniform principles of placement, promotion, and transfer
+    * Careerism with systematic salary structure
+    * Heirarchy, Responsibility, and Accountability
+    * Subjection of official conduct to strict rules of discipline and control
+    * Supremacy of abstract rules
+    * Impersonal authority (i.e. office bearer does not bring the office with him)
+
+#### Human Relations Movement
+
+### Elton Mayo
+* His vision on the Hawthorne studies dominated the literature on human relations theory.
+* Worker productivity is increased when they received attention, highlighting the importance of social factors in the workplace.
+* "Hawthorne effect", where individuals modify their behavior when they know they are being observed.
+* Observed that production could be increased if management understood the role of individual workers' attitudes towards work and also took into account how group attitudes affected behavior.
 
 
+### Human relations theory
+* Recognized that social factors were a source of power in the workplace.
 
 
-
-
+### Barnard and the "zone of indifference"
+* <strong>Chester Barnard</strong>
+    * His notable contribution was a book called The functions of the Executive
+    * Organization as a Cooperative System: Barnard saw organizations as systems of cooperation and communication. 
+    * The main idea behind the <strong>Zone of Indifference</strong> is that workers will comply with orders if they are indifferent to them which suggests that workers need merely to be indifferent to an order to follow it and that workers will follow orders due to an individual's natural tendency to follow authority. 
+    * The <strong>Zone of Indifference</strong> must be reached through the following factors:
+        1. workers must have the ability to comply with the order.
+        2. workers must understand the order.
+        3. the order must be consistent with organizational goals.
+        4. the order must not violate an individual's personal beliefs. 
+* <strong>Mary Parker Follet</strong>
+    * Political Scientist from Harvard
+    * Found a way to use the tenets of the human relations movement to solve some of the problem with the scientific management framework.
+    * Argued that there are several ways to resolve conflict:
+        * Dominance - One party dictates the terms of the arrangement.
+        * Compromise - Neither side gets exactly everything it wants, and the best each side can do is obtain a result that each can agree to.
+        * Integration - when each party states its preferences and attempts to reach an agreement.
 
 
 
