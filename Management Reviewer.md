@@ -1,4 +1,4 @@
-# CHAPTER 1
+# CHAPTER 1 Managing and Performing
 
 ## Principles of Management (Session 1)
 
@@ -8,7 +8,7 @@
 * Management
     * "The art of getting things done through the efforts of other people."
 
-* Principles of Management
+* Principles of Managementa
     * The means by which you actually manage - get things done through others - individually , in groups, or in organizations.
 
 * Types of Managers:
@@ -66,7 +66,7 @@
     * <strong>Negotiator</strong> - Represent a team, department, or organization regarding contracts, union negotiations, etc.
 
 
-# CHAPTER 2
+# CHAPTER 2 Managerial Decision-making
 
 ## Managerial Decision-making (Session 3)
 
@@ -127,5 +127,137 @@
 * <Strong>Conflict</Strong>
    * Process conflict.
    * Relationship conflict.
+
+## Decision-making & Case analysis (Session 5)
+
+### Techniques for Making Better Programmed Decisions
+*   Challenge: To minimize the time spent making decisions on issues that are not particularly important but must still be addressed:
+    *   Heuristics
+    *   Satisficing
+*    A systematic process can be applied in decision-making.
+*    Quality of the decision is more critical than the time spent on the decision
+        1. Recognize that a decision needs to be made.
+        2. Generate multiple alternatives.
+        3. Analyze the alternatives
+        4. Select an alternative.
+        5. Implement the selected alternative.
+        6. Evaluate its effectiveness.
+
+### Group Decision-making
+
+#### Advantages
+* <strong>Brainstorming</strong> is a process of generating as many solutions or options as possible and is a popular technique associated with group decision-making.
+
+#### Disadvantages
+* <strong>Groupthink</strong> occurs when group members choose not to voice their concerns or objections because they would rather keep the peace and not annoy or antagonize others.
+
+#### Improve Group Decision-making
+| Type of Decision              | Technique | Benefit |
+| :---------------- | :------ | ---- |
+| Group Decisions|   Have diverse members in the group   | Improves quality: generates more options, reduces bias |
+|                |   Assign a devil's advocate   | Improves quality: reduces groupthink |
+|                |  Encourage everyone to speak up and contribute   | Improves quality: generates more options, prevents suppression of dissent |
+|                |  Help group members find common ground   | Improves quality: reduces personal conflict |
+
+* Steps in conducting a case study:
+    1. Identify the problem or issue.
+    2. Jot down the  objectives you want to focus on.
+    3. Decide on whose point of view are you taking.
+    4. Enumerate the limitations of the case topic.
+    5. List the alternative courses of action.
+    6. Evaluate each of the alternatives and options (pros & cons)
+    7. Recommend what option to take - suggest a plan
+    8. Identify contingencies
+
+## History of Management (Session 6)
+
+#### Management in the Ancient World
+| Early Contributor              | Outcome |
+| :---------------- | :------ |
+| Sumerians|   Writing & Trade   | 
+| Hammurabi               |   Written commands and control   | 
+| Nebuchadnezzer     |  Incentives   | 
+| Ancient Egyptians |  Division of Labor, coordination and span of control   | 
+| Sun Tzu |  Division of Labor, communication and coordination   | 
+| Han Dynasty |  Bureaucracy   | 
+| Ancient Greeks |  Divison of Labor   | 
+| Romans |  Standardization   |
+| Italians |  Accounting, Corporations, Multinational Corporations   |
+| John Florio |  Management to English Language   | 
+
+
+* <strong>Italian Rennaisance</strong>
+   *    Reintroduction of classical knowledge and the emergence of new knowledge and new learning, much of which had economic and business implications in Northen Italy. 
+   *    Saw the rise of complex organization which required more systematic practices.s
+   *    It laid its contributions to modern management with the rise of management knowledge brought about by  the blooming of multiple organizations which required management. In addition to this, several principles and strategies were also introduced.
+
+* <strong>Industrial Revolution</strong>
+   *    The rennaisance and its ideals reached England where the word "Management" came into the english language from Italy.
+   *    The marketplace was established which was organized for the exchange of goods.
+  
+* <strong>Adam Smith</strong>
+   *    Father of Economics
+   *    Proposed the Idea of Specialization and Coordination within corporations.
+  
+* <strong>Divison of Labor</strong>
+   *    Breaking down a process into subprocessses which will be performed by a specialized worker. Together, these subtasks would produce the final product.
+* <strong>Specialization</strong>
+   *    The training of a worker on a portion of the whole process of the creation of a product.
+       
+During this time, the development of the <ins>steam engine</ins> played a major role in improving the transportation of goods 
+and raw materials.
+
+The concept of standardization was also introduced.
+
+Factories upscaled from sections of cities to whole cities. Small factories turned into larger ones.
+
+The revolutions shifted from England and eventually reached the United States.
+*   Transportation
+*   Telegraph: Information Sharing
+*   <strong>Market Revolution</strong> which spawned a wide variety of corporations that needed managers to coordinate various company offices.
+
+After the civil war, gigantic corporations emerged and several problems arose during this time:
+1.  "How are workers motivated?"
+    *   Factory workers  could avoid work or even destroy machines if they disliked management ideas.
+2.   Production quantity was Unknown
+    *   Workers feared losing jobs if they produced too much of the products which resulted to the punishment of workers who produced too much - <strong>Soldiering</strong>.
+
+#### Frederick Winslow Taylor
+* Father of Scientific Management
+* Proposed the <strong>four (4) principles of management</strong> - <Strong>Taylorism</Strong>
+    *   <strong>Principle 1</strong> - A manager should develop a rule of science for each aspect of a job.
+    *   <strong>Princple 2</strong> - Scientifically select and train each worker.
+    *   <strong>Principle 3</strong> - Management and the workforce should work together to ensure that work is performed according to the principles of management.
+    *   <strong>Principle 4</strong> - Work and Responsibility should be equally  divided between management and workers.
+
+#### Taylor's Acolytes
+
+* Carl G. Barth
+    *    Mathematician
+    *    Aided in the study of employee fatigue and developed the slide rule
+
+* Henry Gantt
+    *    Gantt Chart
+    *    Employee bonus system
+
+* Frank and Lillian Gilbreth
+    *    Motion studies
+    *    No smoking on the job.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
