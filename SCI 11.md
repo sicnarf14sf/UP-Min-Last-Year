@@ -294,4 +294,101 @@
 ### Natural Selection
 
 - Process in which environmental pressures result in differential survival and reproduction of individuals of a population who vary in details of shared, heritable traits
-- is the only one of these ways of altering the gene pool that results in adaptation.
+- is the only one of these ways of altering the gene pool that results in adaptation
+ 
+### Evolution in Other Systems
+
+- Evolution in cultural and social systems.
+
+# Module 8 Biodiversity
+
+## Biodiversity
+
+- Coined by Walter Rozen of the National Research Council/National Academy of Sciences (NRC/NAS 1985)
+- <strong>Total richness</strong> and <strong>Variety</strong> of life on earth
+- <strong>Variability</strong> among living systems from the land, the seas, and other aquatic ecosystems, and the ecological  complexes of which they are part (CBD)
+
+| Levels of Biodiversity                            | 
+| ----------------------------------------- | 
+| Genetic Diversity                    | 
+| Species Diversity                             |
+| Ecosystem Diversity                    | 
+
+### Genetic Diversity
+- Sum total of information contained in the genes of species of plants, animals, and microorganisms
+
+### Species Diversity
+- Variety of species, including their <strong>abundance</strong>, <strong>distribution</strong> and <strong> functions or interactions </strong> within a given spatial context, which can be a geographical region/location/ecosystem 
+
+### 2 measurements
+#### Richness
+- Is a measure of the <strong>number of different kinds of organisms </strong> present in a particular area regardless of scale.
+#### Evenness
+- Compares the similarity of the <strong> population size </strong> of each of the species present.
+
+### Ecosystem Diversity
+- Distribution and abundance of habits, biotic communities, and ecological processes in the biosphere.
+
+## BIODIVERSITY ATTRIBUTES AND ECOSYSTEMS PROCESSES
+
+### Composition
+- describes the parts of each biodiversity component in that area
+    - habitat types
+    - species present
+    - genetic diversity within species
+
+### Structure
+- Refers to the physical characteristics supporting that composition
+    - size of habitats
+    - forest canopy structure
+
+### Function
+- Variety of biological processes, functions or characteristics of a particular ecosystem/area.
+    - pollination
+    - natural disturbances
+    - predator-prey relationships
+
+## LEVELS OF BIODIVERSITY
+- Biodiversity at all forms, levels, structure, and function provides many <strong>anthropocentric</strong>, as well as, <strong>ecocentric</strong> benefits to humandkind. 
+
+## MEASURING AND MONITORING BIODIVERSITY USING SURROGATE SPECIES
+### Surrogate Species
+- simpler and quicker approach to measure and monitor biodiversity
+- can represent a broader set of species and/or habitats to support conservation or management strategies
+- some conservation shortcuts/surrogate species are:
+    - keystone species
+    - umbrella species
+    - indicator species
+    - flagship species
+
+### Keystone Species
+- Exert <strong>strong control</strong> on community structure not by numerical  might but by their pivotal ecological roles or niches
+- Their impact becomes apparent once they are <strong>removed</strong> from an ecosystem
+
+### Umbrella Species
+- Require such large areas of habitat that their  protection might automatically  protect a large number of naturally-occurring species in several ecosystems and habitats                                      
+
+### Indicator Species
+- are species that set a benchmark against which comparisons can be made after a period of time whether conservation interventions are applied or not.
+- are <strong>sensitive to certain changes in the environmental factors</strong> hence are only found in environments where these factors are optimal.
+
+### Flagship Species
+- Are popular, charismatic species that serve as symbols and rallying points to stimulate conservation awareness and action.
+- They serve to act as an ambassador, icon or symbol for a defined habitat, issue, campaign or environmental cause.
+
+## BIODIVERSITY HOTSPOTS
+- A place on Earth that is both <strong>biologically rich and deeply threatened</strong> due to habitat loss by human activity.
+
+### 2 Distinct Criteria:
+1. It must have a <strong>high percentage of plant life</strong> found nowhere else in the world which amounts to at least 1,500 endemic vascular plants (less than 0.5% of the world's total).
+2. It must have <strong>30%</strong> or less of its originalk natural vegetation.
+
+### Endemism
+-  a gene, species, or an ecosystem is only found or only lives in a particular region of the world, hence the loss of its kind means that it is lost forever.
+
+### Ecoregion
+- Complex pattern of biodiversity distribution
+- Determined by <strong>climate, geology and the evolutionary history of the planet.</strong>
+- Large unit of land or water containing a geographically distinct assemblage of species, natural communities, and environmental conditions
+
+
