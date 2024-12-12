@@ -1,6 +1,6 @@
 # Module 5 Population Dynamics
 
-### Population
+## Population
 
 - an interbreeding group of individuals of a single
   species that occupy the same general area
@@ -295,7 +295,7 @@
 
 - Process in which environmental pressures result in differential survival and reproduction of individuals of a population who vary in details of shared, heritable traits
 - is the only one of these ways of altering the gene pool that results in adaptation
- 
+
 ### Evolution in Other Systems
 
 - Evolution in cultural and social systems.
@@ -306,89 +306,327 @@
 
 - Coined by Walter Rozen of the National Research Council/National Academy of Sciences (NRC/NAS 1985)
 - <strong>Total richness</strong> and <strong>Variety</strong> of life on earth
-- <strong>Variability</strong> among living systems from the land, the seas, and other aquatic ecosystems, and the ecological  complexes of which they are part (CBD)
+- <strong>Variability</strong> among living systems from the land, the seas, and other aquatic ecosystems, and the ecological complexes of which they are part (CBD)
 
-| Levels of Biodiversity                            | 
-| ----------------------------------------- | 
-| Genetic Diversity                    | 
-| Species Diversity                             |
-| Ecosystem Diversity                    | 
+| Levels of Biodiversity |
+| ---------------------- |
+| Genetic Diversity      |
+| Species Diversity      |
+| Ecosystem Diversity    |
 
 ### Genetic Diversity
+
 - Sum total of information contained in the genes of species of plants, animals, and microorganisms
 
 ### Species Diversity
-- Variety of species, including their <strong>abundance</strong>, <strong>distribution</strong> and <strong> functions or interactions </strong> within a given spatial context, which can be a geographical region/location/ecosystem 
+
+- Variety of species, including their <strong>abundance</strong>, <strong>distribution</strong> and <strong> functions or interactions </strong> within a given spatial context, which can be a geographical region/location/ecosystem
 
 ### 2 measurements
+
 #### Richness
+
 - Is a measure of the <strong>number of different kinds of organisms </strong> present in a particular area regardless of scale.
+
 #### Evenness
+
 - Compares the similarity of the <strong> population size </strong> of each of the species present.
 
 ### Ecosystem Diversity
+
 - Distribution and abundance of habits, biotic communities, and ecological processes in the biosphere.
 
 ## BIODIVERSITY ATTRIBUTES AND ECOSYSTEMS PROCESSES
 
 ### Composition
+
 - describes the parts of each biodiversity component in that area
-    - habitat types
-    - species present
-    - genetic diversity within species
+  - habitat types
+  - species present
+  - genetic diversity within species
 
 ### Structure
+
 - Refers to the physical characteristics supporting that composition
-    - size of habitats
-    - forest canopy structure
+  - size of habitats
+  - forest canopy structure
 
 ### Function
+
 - Variety of biological processes, functions or characteristics of a particular ecosystem/area.
-    - pollination
-    - natural disturbances
-    - predator-prey relationships
+  - pollination
+  - natural disturbances
+  - predator-prey relationships
 
 ## LEVELS OF BIODIVERSITY
-- Biodiversity at all forms, levels, structure, and function provides many <strong>anthropocentric</strong>, as well as, <strong>ecocentric</strong> benefits to humandkind. 
+
+- Biodiversity at all forms, levels, structure, and function provides many <strong>anthropocentric</strong>, as well as, <strong>ecocentric</strong> benefits to humandkind.
 
 ## MEASURING AND MONITORING BIODIVERSITY USING SURROGATE SPECIES
+
 ### Surrogate Species
+
 - simpler and quicker approach to measure and monitor biodiversity
 - can represent a broader set of species and/or habitats to support conservation or management strategies
 - some conservation shortcuts/surrogate species are:
-    - keystone species
-    - umbrella species
-    - indicator species
-    - flagship species
+  - keystone species
+  - umbrella species
+  - indicator species
+  - flagship species
 
 ### Keystone Species
-- Exert <strong>strong control</strong> on community structure not by numerical  might but by their pivotal ecological roles or niches
+
+- Exert <strong>strong control</strong> on community structure not by numerical might but by their pivotal ecological roles or niches
 - Their impact becomes apparent once they are <strong>removed</strong> from an ecosystem
 
 ### Umbrella Species
-- Require such large areas of habitat that their  protection might automatically  protect a large number of naturally-occurring species in several ecosystems and habitats                                      
+
+- Require such large areas of habitat that their protection might automatically protect a large number of naturally-occurring species in several ecosystems and habitats
 
 ### Indicator Species
+
 - are species that set a benchmark against which comparisons can be made after a period of time whether conservation interventions are applied or not.
 - are <strong>sensitive to certain changes in the environmental factors</strong> hence are only found in environments where these factors are optimal.
 
 ### Flagship Species
+
 - Are popular, charismatic species that serve as symbols and rallying points to stimulate conservation awareness and action.
 - They serve to act as an ambassador, icon or symbol for a defined habitat, issue, campaign or environmental cause.
 
 ## BIODIVERSITY HOTSPOTS
+
 - A place on Earth that is both <strong>biologically rich and deeply threatened</strong> due to habitat loss by human activity.
 
+1. Palearctic
+2. Nearctic
+3. Oceanic
+4. Neotropical
+5. Afrotropical
+6. Indo-Malay
+7. Australasian
+8. Antarctic
+
 ### 2 Distinct Criteria:
+
 1. It must have a <strong>high percentage of plant life</strong> found nowhere else in the world which amounts to at least 1,500 endemic vascular plants (less than 0.5% of the world's total).
 2. It must have <strong>30%</strong> or less of its originalk natural vegetation.
 
 ### Endemism
--  a gene, species, or an ecosystem is only found or only lives in a particular region of the world, hence the loss of its kind means that it is lost forever.
+
+- a gene, species, or an ecosystem is only found or only lives in a particular region of the world, hence the loss of its kind means that it is lost forever.
 
 ### Ecoregion
+
 - Complex pattern of biodiversity distribution
 - Determined by <strong>climate, geology and the evolutionary history of the planet.</strong>
 - Large unit of land or water containing a geographically distinct assemblage of species, natural communities, and environmental conditions
 
+### International Union for Conservation of Nature (IUCN) Red List
 
+- The Global authority on the conservation status of the natural world
+- established in 1964
+
+1. Extinct (EX)
+2. Extinct in the Wild (EW)
+3. Critically Endangered (CR)
+4. Endangered (EN)
+5. Vulnerable (VU)
+6. Near Threatened (NT)
+7. Least Concern (LC)
+8. Data Deficient (DD)
+9. Not Evaluated (NE)
+
+- The <strong>Philippines</strong> is one of the 17 mega-diverse countries in the world but is also considered as <strong>biodiversity hotspot</strong>
+
+### Biodiversity Loss
+
+- Local Scenario: Reduction of species richness and the decline in abundance of individuals of a species
+- Greater Scale: Extinction of Species
+- Causes significant harm to human well-being
+
+### Cause of Biodversity Loss
+
+1. Overpopulation
+2. Overexploitation
+3. Pollution
+4. Habitat Change
+5. Climate Change
+6. Invasive Specie (Invasive Alien Species)
+
+### Risks brought by biodiversity loss
+
+1. Loss of livelihood
+2. Poor health conditions
+3. Decline in economic and social stability
+
+### Effects of Biodversity Loss
+
+1. Threats to Food Security
+2. Threats to Energy Security
+3. Unavailability of clean water
+4. Damage to Social Relationships
+
+# Module 9 Sustaining Living Systems
+
+## Biodiversity Conservation
+
+### Philippines
+
+- a "megadiversity" country
+- 17 megadiversity countries = contain about two thirds of 70 to 80% of our planet's biologocial wealth
+
+### International agreements on biodiversity conservation
+
+- <strong>Ramsar Convention on Wetlands (February 2, 1971)</strong>
+  - Provides the framework for national action and international cooperation for the conservation of wetlands and their resources
+- <strong>Convention on the International Trade in Endangered Species of Wild Flora and Fauna-CITES (March 3, 1973) </strong>
+  - <strong>Largest and most important biodiversity conservation agreement. </strong>
+  - to combat threat and control illegal trade of animal and plant species esp. the threatened and endangered ones.
+  - Appendix 1
+    - Includes all species threated with extinction which are or may be affeqcted by trade.
+  - Appendinx 2
+    - Species not necessarily threated with extincition but may become so unless thbere is strict regulation in trading of wildlife
+  - Appendix 3
+    - Includes all species which any party identifies as being subject to regulation within its jurisdiction for the purpose of preventing or restricting exploitation, and as needing the cooperation of other parties in the control of trade
+
+### IUCN Categories of Threats
+
+- Extinct in the wild (EW)
+  - a taxon when it is only known to survive in cultivation, captivity, or as a naturalized population (or populations) well outside the past range.
+- Critically Endangered (CR)
+  - a taxon when it is facing an extremely high risk of extinction in the wild in the immediate future, as defined in any criteria (Rapid decline, Small range, Small population).
+- Endangered (EN)
+  - a taxon when it is not Critical but is facing a very high risk of extinction in the wild in the near future, as defined in any criteria (Rapid decline, Small range, Small population).
+- Vulnerable (VU)
+  - a taxon when it is not CR nor EN but is facing a high risk of extinction in the wild in the medium-term future, as defined in any criteria (same).
+
+### Convention of Biological Diversity
+
+#### Goals
+
+1. Conservation of Biodviersity
+2. Sustainable use of its components
+3. Fair and equitable sharing of benefits
+
+- Requires the establishment of IPAS for a comprehensive approach to biodiversity protection
+
+### Establishment of Protected Areas
+
+- R.A. 7586 (NIPAS Act, 1992) - defines the frameworks for the establishment of the National Integrated Protected Areas System of the Philippines. - multi-sectoral approach; designation of buffer zones; recognition of ancestral domain;
+  decentralization of PA management thru PAMB
+
+- Basis
+
+  1. Global bio-geographical coverage
+  2. Genetic and species conservation considerations
+  3. Tourism consideration
+  4. Hydrological critera
+  5. Geographical aspects
+  6. Political consideration including administrative aspect and trasnfrontier condition
+  7. Practical considerations
+  8. Reserves for migratory species
+  9. Implications of Island Biogeographic Theory
+
+- Categories
+
+  1. <strong>Stict Nature Reserve/Scientific Reserve</strong>
+     - Protection of nature and maintain natural processes in an undisturbed state
+     - For scientific study, environmental monitoring, education, and maintenance of genetic resources in a dynamic and evolutionary state
+     - Ex., Makiling Forest Reserve
+  2. <strong>National Park</strong>
+     - Protection of outstanding natural and scenic areas of national or international significance
+     - For scientific, educational and recreational use
+     - Extractive resource uses are not allowed.
+     - Ex. PPSRNP
+  3. <strong>Natural Monument/Natural Landmark</strong>
+     - Protectiopn and preservation of nationally significant natural features because of their special interest of unique characteristics
+     - Relatively small areas
+     - Ex. Chocolate hills
+  4. <strong>Managed Nature Reserve/Wildlife Sanctuary</strong>
+     - To assure natural conditions necessary to protect nationally significant species, groups of species, biotic communities or physical features of the environment
+     - Ex. Turtle islands
+  5. <strong>Protected Landscapes and Seascapes</strong>
+     - Maintenance of nationally significant natural landscapes which are characteristics of the harmonious interaction of man and land
+     - Provide opportunities for public enjoyment within the normal life style and economic activity of these areas.
+     - Ex. Siargao island
+  6. <strong>Resource Reserve</strong>
+     - Protection of natural resources of the area for future use
+     - Prevent or contain development activities that could affect the resource pending the establishment of objectives which are based upon appropriate knowledge and planning.
+     - Ex., Upper Agno River Basin
+  7. <strong>Anthropological Reserverve/Natural Biotic Area</strong>
+     - To allow the way of life of societies living in harmony with the environment to continue undisturbed by modern technology.
+     - Ex., Basilan
+  8. <strong>Multiple Use Management Area/Managed Resource Area</strong>
+     - To provide for the sustained production of water, timber, wildlife, pasture and tourism, with the conservation of nature primarily oriented to the support of the economic activities.
+     - Ex., El Nido Managed Resource Protected Area
+
+- Protected Area Management Board
+
+  1. Regional Executive Director
+  2. Representative for Autonomous Regional Government
+  3. REpresentative from Provincial and Municipal Government
+  4. Representative from NGO/Pos
+  5. and at most 3 from ICCs
+
+- General Management Plan (GMPS)
+  - Guides the formulation of site specific management plans
+  - Addressed the concerns of:
+    - management zones
+    - biodiversity management -community organizing
+    - research
+    - policy development
+    - Sectoral Linkages
+
+### Issues/Problems in Managing PAs
+
+- Policy matters
+  - inclusion of PA’s in national constitution and policy considerations
+- Legal aspects
+  - nature of law (formal and informal legal systems), traditional laws and customs, status of land, management needs, regulation of use, law enforcement
+- Administrative aspects
+  - organization and responsible authority
+- Indigenous peoples and human enclaves
+
+- Harvesting/utilization of natural resources
+
+- Conflicts (e.g. Political boundaries)
+
+- Management planning and implementation
+
+### Why Research is needed
+
+- Baseline information (Resources Survey/Inventory &
+  Monitoring)
+- Management effectiveness
+- Carrying capacity (Ecotourism & Special Uses)
+- Socio-economic and Resource Valuation
+
+- Conservation Biology
+
+- Policy research
+
+- Ecology and restoration studies
+
+### Other approaches to natural resource management
+
+- Establishment of KEY BIODIVERSITY AREA
+- Integrated Natural Resources Approaches
+  - Forest Landscape restoration
+  - Integrated water resource management
+  - Integrated coastal zone management (ICZM)
+- Special National Laws
+  - Wildlife Act
+  - Animal Welfare Act
+
+# Module 10 Health and Ecosystem as Ecosystem Services
+
+- All living systems and their environment make up the ecosystem
+
+### Ecosystem Services
+
+1. Provisioning for nutrition and food security
+   - Ex. Food, clean water, fuel, wood
+2. Regulating services that impacts on health
+   - Ensure quality of air, water, and soil and controls diseases and risk, including environmental hazards
+3. Aesthetic and Cultural Services and its impact of physical and mental health
+   - The non-material or intangible benefit one obtains from the ecosystem that contributes to overall wellness is called "cultural" services
